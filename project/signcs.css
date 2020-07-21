@@ -1,0 +1,103 @@
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  /*z-index: 1;*/
+  top: 150px;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+body{
+  background-image:url("login.jpg");
+  background-color: #cccccc;
+  height: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+	font-size:70px;
+	color:white;
+	text-align:center;
+	font-family:Courier New, Courier, monospace;
+}
+
+.left {
+  left: 0;
+  
+}
+.right {
+right: 0;}
+table{
+	margin-top:0px;
+	position:absolute;
+	border-spacing:0 1em;
+}
+.ab{
+	font-size:40px;
+	color:blue;
+	font-family:Comic Sans MS, cursive, sans-serif;
+}
+.ac{
+	height:30px;
+    width:300px;
+	color:orange;
+	font-family:Comic Sans MS, cursive, sans-serif;}
+
+	
+input{
+	height:30px;
+	width:300px;
+}
+input[type="submit"]{
+	width:200px;
+	height:40px;
+	color:white;
+	background-color:black;
+	font-size:100%;
+	font-family:Comic Sans MS, cursive, sans-serif;
+	margin-left:100px;
+}
+button :hover{
+	background-color:blue;
+	
+}
+.ad{
+	border:3px solid black;
+	height:80px;
+	width:500px;
+	color:orange;
+	margin-left:500px;
+	background-color:grey;
+	margin-top:400px;
+	font-size:30px;
+	text-align:center;
+	font-family:Comic Sans MS, cursive, sans-serif;
+}
+
+.error {color: #FF0000;}
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+	margin-top:0px;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 26px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.topnav-right {
+  float: right;
+}
+

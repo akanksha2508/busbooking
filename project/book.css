@@ -1,0 +1,35 @@
+body{
+  background-image:url("pic7.jpg");
+  background-color: #cccccc;
+  height: 1500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+	font-size:50px;
+	color:purple;
+	text-align:center;
+	font-family:Courier New, Courier, monospace;
+}
+.ab{
+font-size:60px;
+color:white;
+font-family:Comic Sans MS, cursive, sans-serif;}
+.ac{
+font-size:25px;
+color:red;
+font-family:Comic Sans MS, cursive, sans-serif;}
+button{
+	width:100px;
+	height:40px;
+	color:white;
+	background-color:black;
+	font-size:100%;
+	font-family:Comic Sans MS, cursive, sans-serif;
+	text-align:center;
+	margin-left:1000px;
+}
+
+
+ 
